@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "lively-brook-5d6a",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "d0479453-dd9e-431a-b3c8-3dfbd8ead290",
+      "database_name": "royal-wildflower-352b-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
